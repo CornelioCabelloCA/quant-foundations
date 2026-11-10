@@ -77,3 +77,4 @@ print(365*24*60) #365 days in a year -> 24 hours in a day -> 60 minutes in a hou
 # exercise: print the following
 # Write your solution here
 print('print("Hello there!")')
+
